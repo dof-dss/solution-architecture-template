@@ -1,0 +1,20 @@
+.technical-documentation blockquote {
+    margin-left: 0px;
+    padding: 5px;
+}
+
+.technical-documentation blockquote>p {
+    margin: 8px;
+    font-size: 16px;
+}
+
+.technical-documentation table {
+    width: 100%;
+    border: 1px solid rgb(175, 175, 175);
+    margin: 10px 0px;
+}
+
+.technical-documentation table thead tr th,
+.technical-documentation table tbody tr td {
+    padding: 7px 10px;
+}
