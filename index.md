@@ -25,63 +25,31 @@ Target/Achieved Implementation date | <i>Add date</i>
 
 > Clearly describe the business and technical objectives, assumptions and constraints that will have a significant impact on the overall nature and shape of the solution. This section is not meant to be a detailed list of the requirements being addressed. Those will be captured as part of the normal requirement gathering practices of the project. 
 
-### 2.1 Business Objectives
-
-#### 2.1.1 High Level Business Objectives
-
-| Business Objective No.        | Description |
+| Objective No.        | Description |
 | ------------- | ------------- |
-| BO1 | Incididunt reprehenderit est ullamco laborum.
-| BO2 | In irure aliquip proident minim deserunt ex duis consectetur nostrud eiusmod officia commodo.
+| OB1 | Incididunt reprehenderit est ullamco laborum.
+| OB2 | In irure aliquip proident minim deserunt ex duis consectetur nostrud eiusmod officia commodo.
 | ... | ...
 
-#### 2.1.2 High Level Business Assumptions
+## 3. Assumptions
 
-| Business Assumption No.         | Description |
+| Assumption No.         | Description |
 | ------------- | ------------- |
-| BA1 | Consectetur esse et commodo Lorem in nostrud mollit pariatur.
-| BA2 | Aute nisi fugiat incididunt culpa amet ut incididunt ullamco labore magna sint qui qui ea.
+| AS1 | Consectetur esse et commodo Lorem in nostrud mollit pariatur.
+| AS2 | Aute nisi fugiat incididunt culpa amet ut incididunt ullamco labore magna sint qui qui ea.
 | ... | ...
 
+## 4. Constraints
 
-#### 2.1.3 High Level Business Constraints
-
-| Business Constraint No.         | Description |
+| Constraint No.         | Description |
 | ------------- | ------------- |
-| BC1 | Labore adipisicing enim mollit Lorem.
-| BC2 | Cupidatat fugiat et voluptate ea magna velit elit cupidatat.
+| CO1 | Labore adipisicing enim mollit Lorem.
+| C02 | Cupidatat fugiat et voluptate ea magna velit elit cupidatat.
 | ... | ...
 
-### 2.2 Technical Objectives
+## 5. Solution Vision
 
-#### 2.2.1 High Level Technical Objectives
-
-| Technical Objective No.        | Description |
-| ------------- | ------------- |
-| TO1 | Ad est veniam qui nulla sunt reprehenderit officia cillum.
-| TO2 | Tempor dolore aute do enim.
-| ... | ...
-
-#### 2.2.2 High Level Technical Assumptions
-
-| Technical Assumption No.         | Description |
-| ------------- | ------------- |
-| TA1 | Cupidatat amet irure nisi magna consequat veniam fugiat quis quis aliqua.
-| TA2 | Non duis aliquip dolor magna reprehenderit.
-| ... | ...
-
-
-#### 2.2.3 High Level Technical Constraints
-
-| Technical Constraint No.         | Description |
-| ------------- | ------------- |
-| TC1 | Et esse id sunt ullamco do voluptate minim minim cupidatat ad dolore ad.
-| TC2 | Consectetur est mollit laboris cillum sint ex.
-| ... | ...
-
-## 3. Solution Architecture Overview
-
-> This section should provide an overview of the whole solution and each architecture domain.
+> This section should provide an overview of the whole solution.
 
 Ad officia ipsum cillum laboris duis. Sint magna ad amet non occaecat sunt aute esse aliqua veniam labore excepteur. Sit non quis qui aute commodo enim ullamco incididunt adipisicing enim sit. In enim minim ut sint velit sunt nulla qui. Irure veniam adipisicing est amet ipsum sint consequat magna labore in.
 
@@ -89,7 +57,7 @@ Reprehenderit ullamco exercitation proident ut velit mollit in. Adipisicing exce
 
 Officia aliqua ut veniam commodo eu. Nisi sit esse ad labore sit mollit non commodo mollit mollit culpa exercitation. Labore dolor cupidatat do sint adipisicing velit fugiat eu.
 
-### 3.1 Solution Properties Priority
+### 5.1 Solution Properties Priority
 
 > This section captures the business views of solution priorities. It requires the business to rank the six elements in order and to describe the rationale for that ranking. The aim is to get a clear statement from the customer about the relative importance of each of the properties. This provides clear guidelines for priories in createing architecture and designs.
 
@@ -103,8 +71,9 @@ Officia aliqua ut veniam commodo eu. Nisi sit esse ad labore sit mollit non comm
 | 5 | Time |
 | 6 | Risk |
 
+### 5.2 Stakeholders
 
-### 3.2 Solution Overview
+### 5.3 Solution Concept
 
 > Should describe an overview of the solution architecture. It should be written in text. Diagrams should be placed within the relevant detailed architecture sections.
 
@@ -116,14 +85,15 @@ Nulla velit et veniam nostrud ipsum ex amet ullamco deserunt id occaecat excepte
 
 Velit sint reprehenderit in in. Ut non et voluptate occaecat irure sunt ex commodo proident ullamco adipisicing. Nostrud velit consequat occaecat ut dolor consectetur sit ea. Consectetur duis proident aliquip incididunt eiusmod occaecat eiusmod dolore laboris consequat cillum aute. Non ad amet ut deserunt laboris non consequat ex duis aute occaecat ea aute culpa.
 
-### 3.3 Business Architecture Overview
+## 6. Business Architecture
 
-### 3.4 Information Systems Architecture Overview
+## 7. Data Architecture
 
-### 3.5 Technology Architecture Overview
+## 8. Application Architecture
 
-### 3.6 Implementation Overview
+## 9. Technology Architecture
 
+## 10. Solution 
 
 ## 4. Glossary
 

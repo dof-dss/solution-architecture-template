@@ -1,13 +1,12 @@
-.header__brand{
-    polygon{
+.header__brand {
+    polygon {
         fill: White;
         opacity: 0.8;
     }
 }
 
-$nics-default-colour: #0a7ad0;
+$nics-default-colour: #004070;
 $nics-grey: #e6e6e6;
-
 .header {
     background: $nics-default-colour;
     color: #fff;
